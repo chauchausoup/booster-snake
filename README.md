@@ -1,3 +1,3 @@
-# Collect the Stars
+# BoosterSnake
 
 ![Gameplay](assets/gameplay.gif)
